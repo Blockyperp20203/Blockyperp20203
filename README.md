@@ -1,16 +1,10 @@
-### Hi there 👋
+- 👋 Hi im Blockyperp From The NZ Wank Police A Special Police For Wankers We Expose And Arrest Wankers if You See A wanker Please Report Them To US.
+- 👀 im interested in Making The World A better Place
+- 🌱 im currently learning Web Dev/Hacking
+- 💞️ im Looking to collaborate on Exposeing Wankers
+- 📫 How To Reach me? 
 
-<!--
-**Blockyperp20203/Blockyperp20203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Hacking
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+TheNZWankPoliceNov20202/TheNZWankPoliceNov20202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
